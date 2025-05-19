@@ -4,11 +4,15 @@ This repository contains the original project initiation documents for StudioHub
 a project and collaboration platform tailored for creative agencies.
 
 ## Author
-**Melis Erdem**
+**Bugra Karahan**
 
 ## Intellectual Property Notice
-All documents and plans in this repository are the intellectual property of Melis Erdem.  
+All documents and plans in this repository are the intellectual property of Bugra Karahan.  
 Any reproduction, copying, or commercial use without explicit permission is strictly prohibited.
 
 ## Licensing
 This work is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+📎 Belgeler:
+- [Proje Başlatma Belgesi](./StudioHub_Proje_Baslatma_Belgesi.docx)
+- [Gantt Şeması](./StudioHub_Gantt_Semasi.png)
