@@ -14,7 +14,7 @@ Any reproduction, copying, or commercial use without explicit permission is stri
 This work is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 📎 Belgeler:
-- [Proje Başlatma Belgesi](./StudioHub_Proje_Baslatma_Belgesi.docx)
+- [StudioHub_Proje_Baslatma_Belgesi.docx](https://github.com/user-attachments/files/20597481/StudioHub_Proje_Baslatma_Belgesi.docx)
 - [Dark Purple and Grey Lined Project Gantt Chart.pdf](https://github.com/user-attachments/files/20597460/Dark.Purple.and.Grey.Lined.Project.Gantt.Chart.pdf)
 - [Organizasyon Dosyası.docx](https://github.com/user-attachments/files/20499959/Organizasyon.Dosyasi.docx)
 - [Yapay Zeka ve Veri Bilimi Projesi.docx](https://github.com/user-attachments/files/20499954/Yapay.Zeka.ve.Veri.Bilimi.Projesi.docx)
