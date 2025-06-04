@@ -15,6 +15,6 @@ This work is licensed under the [Creative Commons Attribution-NonCommercial-NoDe
 
 📎 Belgeler:
 - [Proje Başlatma Belgesi](./StudioHub_Proje_Baslatma_Belgesi.docx)
-- Dark Purple and Grey Lined Project Gantt Chart.pdf
+- [Gantt Şeması](Dark Purple and Grey Lined Project Gantt Chart.pdf)
 - [Organizasyon Dosyası.docx](https://github.com/user-attachments/files/20499959/Organizasyon.Dosyasi.docx)
 - [Yapay Zeka ve Veri Bilimi Projesi.docx](https://github.com/user-attachments/files/20499954/Yapay.Zeka.ve.Veri.Bilimi.Projesi.docx)
